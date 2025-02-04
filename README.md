@@ -1,0 +1,3 @@
+# React Native FlatList Rendering Issue
+
+This repository demonstrates a bug where a `FlatList` component in React Native fails to render data even after a successful API call. The issue is intermittent and difficult to reproduce consistently.  The provided code snippet shows a basic data fetching example using `fetch` and `useEffect` hook. The solution addresses potential race conditions and data updates.
